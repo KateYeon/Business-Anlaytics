@@ -1,0 +1,23 @@
+
+(base) C:\Users\hylee>cd ..
+
+(base) C:\Users>cd ..
+
+(base) C:\>cd python
+
+(base) C:\python>cd Anaconda33
+
+(base) C:\python\Anaconda33>python
+Python 3.6.5 |Anaconda, Inc.| (default, Mar 29 2018, 13:32:41) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import os
+>>> import math
+>>> print(pi)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'pi' is not defined
+>>> print(math.pi)
+3.141592653589793
+>>> exit()
+
+(base) C:\python\Anaconda33>
